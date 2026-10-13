@@ -2,7 +2,7 @@
 
 Hello! My name is Sathvik Kotapati. I am a student here at the University of Washington. This page says a little about me.
 
-![Sathvik](Sathvik_Kotapati_Headshot.png "A picture of Sathvik"){width=200px}
+![Sathvik](Sathvik_Kotapati_Headshot.png "A picture of Sathvik"){height=150px}{width=200px}
 
 ## Academics
 
