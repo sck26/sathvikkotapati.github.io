@@ -2,7 +2,7 @@
 
 Hello! My name is Sathvik Kotapati. I am a student here at the University of Washington. This page says a little about me.
 
-![Sathvik](Sathvik_Kotapati_Headshot.png "A picture of Sathvik"){height=150px}{width=200px}
+![Sathvik](Sathvik_Kotapati_Headshot.png "A picture of Sathvik")
 
 ## Academics
 
@@ -13,6 +13,12 @@ Here is a list of my favorite classes at UW:
 - [Data Structures and Algorithms]([https://myplan.uw.edu/course/#/courses/INFO330?states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwCsALAEwA0yY62YACllCmSljSUGANgC%2BIMUA](https://courses.cs.washington.edu/courses/cse332/))
 - [Introduction to Computer Programming III]([https://courses.cs.washington.edu/courses/cse332/](https://courses.cs.washington.edu/courses/cse123/))
 - [Personal Finance]([https://english.washington.edu/courses/2024/winter/engl/288/g](https://foster.uw.edu/academics/degree-programs/undergraduate-programs/curriculum/minors-and-more-opportunities/))
+
+## Hobbies
+
+I love the Seahawks and watching alot of sports along with playing basketball and football in my free time with my friends. I love to travel around the world, most recently I went to Europe and Cancun. Im hoping to go to Japan in the future with my friends but everyone knows how that goes :)
+
+![JSN](jsn.jpg "JSN is so good!")
 
 ## Programming Background
 
